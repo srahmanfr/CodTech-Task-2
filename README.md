@@ -1,5 +1,13 @@
 # CodTech-Task-2
-Overview of the Vulnerability Scanning Tool
+Name- Shafique UR Rahman
+Company-Codtech IT Solutions 
+Intern ID :CT12WDBG 
+Domain-Cyber Security and Ethical hacking 
+Duration- December 12th, 2024 to March 12th, 2025 
+Mentor- Neela Santhosh Kumar
+                                                  
+                                                  
+                                                                        Overview of the Vulnerability Scanning Tool
 
 Objective
 The objective of this project is to develop a tool that scans networks or websites for common security vulnerabilities. It aims to identify issues such as open ports, outdated software versions, and misconfigurations to improve system security by providing actionable insights.
